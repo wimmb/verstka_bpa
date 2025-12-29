@@ -262,7 +262,7 @@ document.addEventListener('DOMContentLoaded', function () {
 document.addEventListener('DOMContentLoaded', function () {
 	const POPUP_ID = 'promo_popup';
 	const STORAGE_KEY = 'promo_popup_last_show';
-	const SHOW_DELAY = 3000;
+	const SHOW_DELAY = 4000;
 	const COOLDOWN = 1 * 60 * 1000;
 
 	const popupEl = document.getElementById(POPUP_ID);
