@@ -92,8 +92,8 @@ document.addEventListener('DOMContentLoaded', updateHeaderScrollClass);
 
 // Scroll links
 document.addEventListener('DOMContentLoaded', function () {
-	const OFFSET_DESKTOP = 64;
-	const OFFSET_MOBILE = 54;
+	const OFFSET_DESKTOP = 94;
+	const OFFSET_MOBILE = 84;
 	const MOBILE_BREAKPOINT = 1079.98;
 
 	const header = document.querySelector('.header');
